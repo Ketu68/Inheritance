@@ -22,7 +22,7 @@ namespace Inheritance1
         }
     }
 
-    public class Employee : Person
+    public class Employee : Person   //------------------------- INHERITED FROM PERSON CLASS --------------------------------
     {
         int ID;
     }
